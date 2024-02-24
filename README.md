@@ -29,7 +29,7 @@ Ensure you have Python installed on your system. This project was developed usin
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/yourusername/your-project-name.git
+   git clone https://https://github.com/Solon1te/hirst_painting.git
 
 2. install the required libraries:
    colorgram
