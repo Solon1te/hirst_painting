@@ -1,4 +1,4 @@
-# Colorful Dot Art with Python
+# Damien Hirst Painting with Python
 
 ## About The Project
 This project is a part of my learning journey through the "100 Days of Code" class on Udemy. It focuses on using Python to generate a vibrant dot art. The project utilizes libraries such as `turtle` for drawing and `colorgram` for extracting color palettes from images. This creative endeavor not only reinforced my understanding of Python basics but also introduced me to working with external libraries and manipulating images and graphics in Python.
